@@ -9,7 +9,7 @@ toy_story = media.Movie(
 
 # creating Avtar movie instance
 avtar = media.Movie(
- "avtar",
+ "avatar",
  "https://upload.wikimedia.org/wikipedia/sco/b/b0/Avatar-Teaser-Poster.jpg",
  "https://www.youtube.com/watch?v=5PSNL1qE6VY")
 
@@ -33,7 +33,7 @@ midnight_in_paris = media.Movie(
 
 # creating Hunger Games movie instance
 hunger_games = media.Movie(
- "Hunger Games",
+ "The Hunger Games",
  "https://upload.wikimedia.org/wikipedia/en/3/39/The_Hunger_Games_cover.jpg",
  "https://www.youtube.com/watch?v=3PkkHsuMrho")
 
